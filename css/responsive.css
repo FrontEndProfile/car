@@ -1,0 +1,1891 @@
+@media (min-width: 991px) {
+     .container {
+          max-width: 100%;
+          padding: 0px 52px;
+     }
+}
+
+@media (min-width: 1600px) {
+     .container {
+          max-width: 1424px;
+          padding: 0px 12px;
+     }
+}
+
+
+
+@media (max-width: 1600px) {
+     .slide-sec {
+          background-size: cover;
+     }
+
+     .offer-tag h2 {
+          font-size: 36px;
+     }
+
+     .offer-tag h2 span {
+          font-size: 20px;
+     }
+
+     .offer-tag {
+          width: 130px;
+          height: 130px;
+          left: -50px;
+          top: -54px;
+     }
+}
+
+@media (max-width: 1440px) {
+     .customer-box .swiper-slide p {
+          font-size: 16px;
+     }
+
+     .garige-img {
+          height: 449px;
+          object-fit: cover;
+     }
+}
+
+@media (max-width: 1400px) {
+     .hero-bg .img-holder {
+          margin-top: -80px;
+     }
+}
+
+@media (max-width: 1365px) {
+     .choose-page .step h4 {
+          font-size: 18px;
+     }
+
+     .fees-sec .image-holder {
+          margin: -74px 0 0 0;
+     }
+
+     .choose-page .about-sec .step {
+          padding: 30px 26px 16px;
+     }
+
+     .accordion-item {
+          margin-bottom: 10px;
+     }
+
+     header .navbar-nav .nav-link {
+          font-size: 18px;
+     }
+
+     .car-box img {
+          width: 168px;
+     }
+
+     .text-box h3 {
+          font-size: 32px;
+     }
+
+     .right-side {
+          padding: 20px 7px 20px;
+     }
+
+     .top-space {
+          margin-top: 1px;
+          width: 148px;
+     }
+
+     .swiper-pagination {
+          margin: -110px 23px 0px 64px;
+     }
+
+     .customer-box {
+          padding-bottom: 0;
+     }
+
+     .customer-box .swiper-slide h4 {
+          font-size: 32px;
+          margin-bottom: 11px;
+     }
+
+     .swiper-pagination {
+          margin: -15px 23px 0px 64px;
+     }
+
+     .reivew-img img {
+          height: 346px;
+          object-fit: cover;
+     }
+
+     .accordion-button {
+          font-size: 22px;
+          padding: 15px 1.25rem;
+          line-height: 38px;
+     }
+
+     .garige-img {
+          height: 366px;
+     }
+
+     .step p {
+          font-size: 16px;
+     }
+
+     .hero-bg {
+          padding: 200px 0px 0;
+     }
+
+     .hero-bg .img-holder {
+          margin-top: -80px;
+     }
+
+     .hero-card p {
+          max-width: 527px;
+     }
+
+     .hero-media {
+          max-width: 100%;
+     }
+}
+
+@media (max-width:1199px) {
+     .about-page .image-holder {
+          margin-left: -88px;
+     }
+
+     .offer-tag h2 {
+          margin-bottom: 0px !important;
+     }
+
+     .input-flex {
+          flex: 1;
+     }
+
+     .quote-4 .bar-media {
+          padding: 20px 16px 164px;
+     }
+
+     .quote-page .hero-bg {
+          padding: 131px 0px 0px;
+     }
+
+     .quote-3 .bar-media {
+          padding: 20px 16px 128px;
+          margin-top: 16px;
+     }
+
+     .search-box {
+          margin-top: 71px;
+     }
+
+     .faq-page .search-box.text-box h2 {
+          margin-bottom: 2px;
+     }
+
+     .faq-page .hero-bg {
+          padding: 191px 0px 125px;
+     }
+
+     .content-page .hero-bg {
+          padding: 196px 0px 124px;
+     }
+
+     .contact-page .hero-bg {
+          padding: 130px 0px 449px;
+     }
+
+     .content-page .scrap-sec {
+          padding: 68px 0px 26px;
+     }
+
+     .contact-sec .call-link {
+          line-height: 41px;
+     }
+
+     .contact-box h2 {
+          margin-bottom: 11px !important;
+     }
+
+     .contact-box .img-hodler {
+          margin-top: 87px;
+          margin-bottom: -119px;
+          margin-left: -43px;
+     }
+
+     .contact-page footer {
+          margin-top: 111px;
+     }
+
+     .contact-page footer {
+          margin-top: 180px;
+     }
+
+     .contact-box2 h2 {
+          margin-bottom: 24px !important;
+     }
+
+     .car-space {
+          margin-top: 27px;
+     }
+
+     .contact-box.fees-sec {
+          margin-top: 31px;
+     }
+
+     .order-list {
+          margin-bottom: 0px !important;
+     }
+
+     .contact-box .price-form .reg-input {
+          max-width: 100%;
+     }
+
+     .contact-box .price-form .loaction-input {
+          max-width: 100%;
+          margin-left: 0;
+          margin-top: 9px;
+     }
+
+     .contact-page .price-form .form {
+          display: block;
+     }
+
+     .contact-box ul {
+          margin-bottom: 23px;
+     }
+
+     .contact-sec {
+          margin-top: -439px;
+     }
+
+     .valuation-box {
+          padding: 40px 46px 34px 33px;
+     }
+
+     .navbar-toggler {
+          padding: 0px;
+          margin-left: 14px;
+          font-size: 45px;
+          border: none;
+     }
+
+     .review-sec {
+          margin: 80px 0px 40px;
+          padding: 86px 0px 175px;
+     }
+
+     .text-box2 {
+          max-width: 465px !important;
+     }
+
+     .valuation-box .link {
+          margin-left: 27px;
+     }
+
+     .accordion-sec .text-box h2 {
+          text-align: center;
+     }
+
+     .accordion-sec {
+          padding: 41px 0px 263px;
+          background-size: cover;
+     }
+
+
+
+     .faq-page .hero-card {
+          margin-top: 0px;
+     }
+
+     .arrow-img {
+          top: 69px;
+     }
+
+     header .container {
+          padding-right: 0px;
+     }
+
+     header .navbar-brand {
+          padding: 0px;
+     }
+
+     .navbar-brand img {
+          height: 52px;
+          width: 183px;
+          object-fit: cover;
+     }
+
+     .hero-bg {
+          padding: 157px 0px 89px;
+     }
+
+     .price-boxes {
+          display: block;
+          margin-top: 22px;
+     }
+
+     .star-list h6 {
+          font-size: 17px;
+          margin-right: 22px;
+     }
+
+     .star-list img {
+          width: 229px;
+     }
+
+     .hero-bg .img-holder {
+          margin-top: -122px;
+     }
+
+     .price-box {
+          margin-bottom: 20px;
+     }
+
+     .step {
+          min-height: fit-content;
+          padding: 50px 30px 40px;
+          display: flex;
+          align-items: center;
+          text-align: start;
+          margin-bottom: 34px;
+          height: auto;
+     }
+
+     .car-box {
+          display: block;
+          margin-bottom: 23px;
+     }
+
+     .row-space {
+          margin-top: 0;
+     }
+
+     .text-box h3 {
+          font-size: 30px;
+          text-align: start;
+     }
+
+     .garige-img {
+          width: 100%;
+     }
+
+     .hide-content {
+          opacity: 0;
+     }
+
+     .text-box h2 {
+          text-align: start;
+          margin-bottom: 35px;
+     }
+
+     .accordion-item h2 {
+          margin-bottom: 12px;
+     }
+
+     .faq-sec .accordion-button {
+          font-size: 18px;
+          padding: 14px 1.25rem;
+          line-height: 26px;
+     }
+
+     .faq-sec .faq-box {
+          padding: 82px 114px 100px 50px;
+     }
+
+     footer {
+          margin-top: 70px;
+     }
+
+     .fixed-top .show-nav {
+          display: none;
+     }
+
+     .fixed-top .hide-nav {
+          display: flex;
+     }
+
+     header .navbar-nav .nav-link {
+          padding: 22px 14px !important;
+     }
+
+     .navbar-nav {
+          padding: 20px 0px;
+     }
+
+     .navbar-toggler:focus {
+          box-shadow: none;
+     }
+
+     .slide-sec {
+          background-size: 100% 100%;
+     }
+
+     .faq-sec .faq-box .text-box {
+          padding-left: 0px;
+     }
+
+     .opacity-0 {
+          opacity: 1;
+     }
+
+     .faq-sec {
+          margin-top: 62px;
+     }
+
+     .offer-tag h2 span {
+          font-size: 18px;
+     }
+
+     .offer-tag h2 {
+          font-size: 35px;
+     }
+
+     .offer-tag {
+          width: 116px;
+          height: 116px;
+          left: -46px;
+          top: -37px;
+     }
+
+     .swiper-pagination {
+          margin: 0;
+          position: absolute;
+          bottom: -40px !important;
+          left: 25% !important;
+     }
+
+     .word-space {
+          margin-top: 90px;
+     }
+
+     .car-box img {
+          width: auto;
+     }
+
+     .right-side {
+          padding: 20px 35px 20px;
+     }
+
+     .month-sec {
+          display: block;
+          padding: 32px 63px 59px 52px;
+     }
+
+     .bottom-heading {
+          justify-content: start;
+          margin-top: 8px;
+     }
+
+     .step-body {
+          flex: 1;
+     }
+
+     .step h4 {
+          margin-top: 0px;
+     }
+
+     .step .img-holder {
+          margin-right: 35px;
+     }
+
+     .step p {
+          font-size: 18px;
+     }
+}
+
+@media (max-width:1100px) {
+     .month-sec {
+          padding: 37px 19px 59px 40px;
+     }
+
+     .accordion-body .box {
+          padding: 29px 25px 46px;
+     }
+
+     .contact-box {
+          padding: 43px 16px;
+     }
+
+     .contact-box .img-hodler {
+          margin-top: 96px;
+     }
+
+     .hero-media h1 {
+          font-size: 42px;
+     }
+
+     .valuation-box {
+          padding: 40px 20px 34px 16px;
+     }
+
+     .valuation-box .link {
+          padding-right: 20px;
+     }
+
+     .about-page .image-holder {
+          margin-left: -58px;
+     }
+
+     .right-side {
+          padding: 20px 12px 20px;
+     }
+
+     .faq-sec .faq-box {
+          padding: 82px 66px 100px 50px;
+     }
+
+     .hero-bg .img-holder {
+          margin-top: -74px;
+     }
+
+     .car-box img {
+          width: 257px;
+     }
+
+     .text-box h3 {
+          font-size: 28px;
+     }
+}
+
+@media (max-width:991px) {
+     .btn-call {
+          margin: 0px 14px;
+     }
+
+     .drop-page .box-size {
+          min-height: 100%;
+     }
+
+     .quote-3 .top-bar ul::before {
+          width: 57%;
+     }
+
+     .top-bar ul::before {
+          bottom: 9px;
+     }
+
+     .search-box .btn-msg {
+          margin: 10px auto 0px;
+     }
+
+     .quote-4 .top-bar ul li.active:last-child:before {
+          right: 3px;
+     }
+
+     .accordion-sec .accordion-body p {
+          font-size: 16px;
+          line-height: 23px;
+     }
+
+     .accordion-body .box h2 {
+          font-size: 18px;
+          margin-bottom: 23px;
+     }
+
+     .accordion-sec {
+          background-size: cover;
+     }
+
+     .search-box .form-group {
+          display: block;
+     }
+
+     .contact-page footer {
+          margin-top: 150px !important;
+     }
+
+     .contact-box.fees-sec {
+          border-radius: 12px;
+          background: #F0F0F0;
+          box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.22);
+     }
+
+     .contact-box.fees-sec .image-holder {
+          margin: 0px 0 -165px;
+     }
+
+     .contact-box .btn-price {
+          margin: 15px auto 0;
+     }
+
+     .contact-box2 {
+          border: none;
+     }
+
+     .contact-box .img-hodler {
+          display: none;
+     }
+
+     .top-bar ul li {
+          font-size: 14px;
+     }
+
+     .collect-box h1 {
+          font-size: 48px;
+     }
+
+     .collect-box p {
+          font-size: 14px;
+     }
+
+     .box-size {
+          min-height: 250px;
+     }
+
+     .scrap-sec .text-box h2 {
+          font-size: 22px;
+     }
+
+     .scrap-sec .text-box p {
+          font-size: 16px;
+          line-height: 24px;
+     }
+
+     .valuation-box .btn-price {
+          margin-top: 20px;
+     }
+
+     .valuation-box {
+          display: block;
+     }
+
+     .accordion-sec .accordion-button {
+          font-size: 20px;
+          padding: 16px 12px 16px 25px;
+     }
+
+     .accordion-btn {
+          margin-left: 29px;
+     }
+
+     .fees-sec .hero-card {
+          padding: 30px 18px 24px;
+     }
+
+     .fees-sec .image-holder {
+          margin: -22px 0 0 0;
+     }
+
+     .container {
+          max-width: 100%;
+          padding: 0px 52px;
+     }
+
+     .car-box {
+          display: flex;
+     }
+
+     .back-button {
+          display: none;
+     }
+
+     .btn-price {
+          font-size: 22px;
+          width: 206px;
+     }
+
+     .hero-card {
+          padding: 30px 20px;
+     }
+
+     .btn-price span {
+          font-size: 14px;
+     }
+
+     .hero-bg .img-holder {
+          margin-top: 0;
+     }
+
+     .hero-media h1 {
+          font-size: 38px;
+     }
+
+     .step {
+          display: block;
+          text-align: center;
+          min-height: 367px;
+     }
+
+     .step .img-holder {
+          margin-right: 0;
+          margin-bottom: 33px;
+     }
+
+     .bottom-heading {
+          display: block;
+     }
+
+     .bottom-heading .btn-price {
+          margin-top: 20px;
+     }
+
+     .word-space {
+          margin-bottom: 30px;
+     }
+
+     .reivew-img img {
+          height: 100%;
+          object-fit: cover;
+     }
+}
+
+@media (max-width:767px) {
+     .arrow-img {
+          right: 0;
+     }
+
+     element.style {}
+
+     .tablinks.active {
+          background-color: #f2f2f2;
+     }
+
+     a.active, a:focus, button:focus, button.active {
+          outline: none;
+     }
+
+     [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+          cursor: pointer;
+     }
+
+     .tablinks {
+          font-size: 63%;
+          width: 83px;
+          padding: 13px;
+     }
+
+     .tab-swiper {
+          margin-top: 40px;
+     }
+
+     .tab {
+          grid-gap: 10px;
+     }
+
+     .calendar-box .top-header .slider-heading {
+          width: 80px;
+     }
+
+     .tab-swiper .swiper-button-next {
+          right: -12px;
+     }
+
+     .form-box .box-size {
+          min-height: 100%;
+     }
+
+     .drives-btn {
+          display: block !important;
+     }
+
+     .drop-page .btn-price {
+          width: 235px;
+          height: 52px !important;
+          padding: 4px 0px !important;
+     }
+
+     .quote-4 .bar-box p br {
+          display: none;
+     }
+
+     .quote-page .hero-bg {
+          background-image: url(../images/road-map-mobile.png);
+          background-size: contain;
+     }
+
+     .quote-3 .top-bar ul::before {
+          width: 58%;
+     }
+
+     .contact-box .btn-price span {
+          margin-right: 10px;
+          font-size: 18px;
+     }
+
+     .contact-box p {
+          font-size: 14px;
+     }
+
+     .heading-text {
+          font-size: 30px !important;
+     }
+
+     .contact-box ul li h6 br {
+          display: none;
+     }
+
+     .price-button .btn-price {
+          display: flex;
+          align-items: center;
+          width: 228px;
+          margin-left: 0;
+          height: 46px;
+          justify-content: center;
+     }
+
+     .reviews-box .text-box p {
+          font-size: 16px;
+          line-height: 22px;
+     }
+
+     .reviews-box .text-box h2 {
+          font-size: 24px;
+          margin-bottom: 10px;
+          margin-top: 18px;
+     }
+
+     .quote-4 .bar-box ul {
+          display: block;
+          margin-top: 50px;
+     }
+
+     .quote-4 .bar-box p {
+          font-size: 15px;
+     }
+
+     .quote-4 .quote-box .bar-box {
+          padding: 27px 26px 0px;
+     }
+
+     .quote-5 .bar-box {
+          padding: 27px 22px 19px !important;
+     }
+
+     .btn-list {
+          margin-top: 9px !important;
+          justify-content: space-between;
+     }
+
+     .quote-4 .finish-box .quote-box .bar-box {
+          padding: 27px 26px 68px;
+     }
+
+     .quote-2 .collect-box {
+          padding: 14px 16px 18px;
+     }
+
+     .quote-sec .hero-bg {
+          padding: 80px 0px 6px;
+     }
+
+     .quote-4 .finish-box .bar-media {
+          padding: 20px 16px 73px;
+     }
+
+     .quote-4 .bar-box .button-space {
+          margin-top: 20px !important;
+     }
+
+     .bar-box ul li {
+          width: 100%;
+          margin-bottom: 10px;
+     }
+
+     .quote-4 .bar-box {
+          padding: 27px 26px 47px;
+     }
+
+     .bar-box ul li .btn-msg {
+          width: 243px;
+          height: 52px;
+          margin: 0 auto;
+     }
+
+     .bar-box ul li .btn-price {
+          width: 243px;
+          height: 52px;
+     }
+
+     .hero-bg.quote-4 .btn-price span {
+          font-size: 16px;
+          margin-top: 0px;
+     }
+
+     .quote-page .quote-4 .bar-media {
+          padding: 11px 9px 20px;
+     }
+
+     .quote-3 .collect-box {
+          padding: 21px 30px 20px 15px;
+     }
+
+     .quote-3 .contact-box .btn-msg {
+          width: 235px;
+          padding: 14px 56px;
+          margin-top: 9px;
+     }
+
+     .quote-3 .car-boxes p {
+          font-size: 12px;
+     }
+
+     .quote-3 .car-boxes h1 {
+          font-size: 43px;
+          margin-left: 1px;
+     }
+
+     .quote-3 .admin-box {
+          height: 103px;
+          width: 109px;
+          padding: 0;
+     }
+
+     .reg-box2 {
+          padding: 21px 10px 10px;
+          margin-top: 17px;
+     }
+
+     .hero-bg.quote-3 {
+          background-size: contain;
+     }
+
+     .reg-box2 p {
+          color: #000;
+          text-align: center;
+          font-size: 14px;
+          font-weight: 500;
+          line-height: 18px;
+     }
+
+     .reg-box {
+          border-radius: 5px;
+          background: #EEE;
+     }
+
+     .quote-3 .car-boxes {
+          border: none;
+     }
+
+     .quote-page .quote-3 .bar-media {
+          padding: 17px 10px 20px;
+     }
+
+     .quote-3 .medal-box {
+          padding: 0;
+     }
+
+     .reg-box {
+          padding-left: 10px;
+     }
+
+     .fees-tag svg {
+          width: 51px;
+          height: 51px;
+     }
+
+     .medal-box {
+          padding: 17px 0px;
+     }
+
+     .bar-box {
+          padding: 0px;
+     }
+
+     .box-size {
+          background-color: #fff;
+          margin-left: 0px;
+          min-height: 100%;
+          max-width: 100%;
+     }
+
+     .admin-box {
+          padding: 8px 0px;
+     }
+
+     .medal-list {
+          margin-top: 28px;
+     }
+
+     .quote-page .star-list h6 {
+          font-size: 15px;
+     }
+
+     .quote-page .bar-media {
+          padding: 20px 16px 20px;
+     }
+
+     .quote-page .hero-bg {
+          padding: 79px 0px 0px;
+     }
+
+     .collect-box h1 {
+          font-size: 67px;
+     }
+
+     .medal-list li span {
+          margin-right: 8px;
+     }
+
+     .medal-list li {
+          color: #1E1E1E;
+          font-size: 13px;
+          font-weight: 600;
+          line-height: 14px;
+          display: flex;
+          align-items: center;
+     }
+
+     .collect-box.box-size {
+          background: #EEE;
+     }
+
+     .car-boxes {
+          border-radius: 0px 3px 3px 0px;
+          border: 5px solid #F6F6F6;
+          background: #FFF;
+          align-items: start;
+     }
+
+     .faq-page .hero-bg {
+          padding: 121px 0px 64px;
+     }
+
+     .search-box {
+          margin-top: 15px;
+          padding: 1px 19px 25px;
+     }
+
+     .faq-page .accordion-button::after {
+          width: 0;
+     }
+
+     .faq-page .accordion-btn {
+          margin-left: 0px;
+          justify-content: end;
+          margin-top: 5px;
+          flex: initial;
+          width: 47%;
+     }
+
+     .faq-page .accordion-body .box {
+          background-color: transparent;
+          padding: 0;
+     }
+
+     .faq-page .accordion-sec .accordion-body {
+          padding: 10px 15px 26px;
+     }
+
+     .faq-page .box .video-img {
+          border: 1px solid #DBDBDB;
+          margin-top: 28px;
+     }
+
+     .faq-page .accordion-sec {
+          background-size: 100% 100%;
+          padding: 25px 0px 140px;
+     }
+
+     .faq-page .fees-sec .hero-card {
+          margin: 23px auto;
+     }
+
+     .faq-page .text-box.text-center h2 {
+          display: none;
+     }
+
+     .quote-2 .medal-box {
+          padding: 14px 26px 16px;
+     }
+
+     .collect-box h6 {
+          font-size: 13px;
+     }
+
+     .collect-box h2 {
+          font-size: 28px;
+     }
+
+     .accordion-sec {
+          background-size: 100% 100%;
+     }
+
+     .medal-box h6 {
+          font-size: 15px;
+          line-height: 21px;
+     }
+
+     .faq-page .accordion-sec .accordion-item {
+          margin-bottom: 9px;
+     }
+
+     .faq-page .search-box.text-box h2 {
+          font-size: 17px;
+     }
+
+     .faq-page .hero-media h1 {
+          font-size: 28px;
+     }
+
+     .faq-page .accordion-body .box h2 {
+          display: none;
+     }
+
+     .faq-page .accordion-sec .accordion-button {
+          font-size: 16px;
+          padding: 16px 15px 10px;
+          line-height: 18px;
+          display: flex;
+          align-content: center;
+          width: 100%;
+          justify-content: space-between;
+     }
+
+     .accordion-btn img {
+          width: 28px;
+     }
+
+     .content-page .scrap-sec {
+          padding: 22px 0px 26px;
+     }
+
+     .content-page .scrap-sec .text-box h2 {
+          margin-top: 26px;
+     }
+
+     .content-page .hero-bg {
+          padding: 123px 0px 61px;
+     }
+
+     .contact-box.fees-sec .image-holder {
+          margin: 0px -37px -99px -45px;
+     }
+
+     .content-page .hero-media h1 {
+          font-size: 28px;
+     }
+
+     .contact-box .btn-msg {
+          margin: 0;
+     }
+
+     .contact-box.fees-sec {
+          margin-top: 1px;
+          padding: 34px 50px 28px 40px;
+
+     }
+
+     .contact-box.contact-box2.fees-sec2.text-box h2 {
+          margin-bottom: 22px !important;
+     }
+
+     .contact-box.contact-box2.fees-sec2 {
+          padding: 33px 0px;
+     }
+
+     .contact-box h2 {
+          margin-top: 0px !important;
+     }
+
+     .contact-box h6 {
+          font-size: 16px;
+     }
+
+     .contact-box ul li h6 span {
+          max-width: 81px;
+     }
+
+     .call-link {
+          font-size: 24px;
+     }
+
+     .contact-box ul {
+          margin-bottom: 7px;
+     }
+
+
+
+     .contact-box.text-box h2 {
+          font-size: 22px;
+          margin-bottom: 0px !important;
+     }
+
+     .contact-box {
+          padding: 25px 16px 28px 24px;
+     }
+
+     .car-box2 {
+          width: 47px;
+          height: 47px;
+          padding: 10px 13px;
+     }
+
+     .bus-box {
+          width: 47px;
+          height: 47px;
+          padding: 10px 13px;
+     }
+
+     .top-bar ul li::after {
+          width: 11px;
+          height: 11px;
+          top: -2px;
+
+     }
+
+     .top-bar ul::before {
+          bottom: 4px;
+          width: 31%;
+     }
+
+     .top-bar ul li.active::before {
+          width: 7px;
+          height: 7px;
+          top: 0px;
+          left: 1px;
+     }
+
+     .top-bar ul li span {
+          display: none;
+     }
+
+     .top-bar ul::after {
+          height: 7px;
+          top: 0px;
+     }
+
+     .road-map {
+          padding: 7px 5px 7px 6px;
+     }
+
+     .top-bar ul li {
+          font-size: 16px;
+          margin-bottom: 8px;
+          padding-left: 27px;
+     }
+
+     .about-page .hero-media h1 {
+          margin-bottom: 24px;
+          font-size: 28px;
+     }
+
+     .about-page .hero-bg .image-holder {
+          margin: -8px 0 0 0;
+     }
+
+     .valuation-box {
+          text-align: center;
+          padding: 34px 20px 34px 20px;
+     }
+
+     .review-sec .text-box h2 {
+          font-size: 18px;
+          text-align: center;
+     }
+
+     .valuation-box .link {
+          padding: 26px 0 0;
+          text-align: start;
+          margin: 0;
+     }
+
+     .about-page .hero-bg {
+          padding: 120px 0px 31px;
+     }
+
+     .about-page .hero-media p {
+          margin: 0;
+          max-width: 100%;
+     }
+
+     .accordion-sec {
+          background-image: url(../images/mobile-bg.png);
+          padding: 41px 0px 96px;
+     }
+
+     .choose-page .hero-media p {
+          margin: 0;
+     }
+
+     .hero-bg .image-holder {
+          margin: -13px 30px 0;
+     }
+
+     .about-sec .text-box h2 {
+          font-size: 18px;
+          text-align: start;
+     }
+
+     .about-sec .step .img-holder {
+          min-height: 100%;
+     }
+
+     .choose-page .about-sec .step {
+          padding: 22px 26px;
+          height: 104px;
+     }
+
+     .choose-page .step h4 {
+          font-size: 16px;
+          line-height: 20px;
+     }
+
+     .link {
+          margin-top: 5px;
+          font-size: 16px;
+          line-height: 23px;
+     }
+
+     .about-sec {
+          margin-top: 21px;
+     }
+
+     .fees-sec .hero-card {
+          padding: 34px 50px 164px 41px;
+          max-width: 100%;
+     }
+
+     .fees-sec .hero-card h2 {
+          font-size: 17px;
+          text-align: start;
+     }
+
+     .fees-sec .price-form .form {
+          margin-top: 13px;
+     }
+
+     .fees-sec .price-form .form-control {
+          font-size: 15px;
+          height: 47px;
+     }
+
+     .fees-sec .price-form .reg-input .group-text img {
+          width: 22px;
+     }
+
+     .fees-sec .price-form .input-group-text {
+          padding: 12px 0px;
+          padding-right: 2px;
+     }
+
+     .fees-sec .star-list h6 {
+          font-size: 12px;
+     }
+
+     .fees-sec .price-form .input-group-text img {
+          width: 19px;
+     }
+
+     .fees-sec .price-form .reg-input .group-text span {
+          margin-top: 1px;
+     }
+
+     .choose-page .worth-card .btn-price {
+          font-size: 20px;
+          width: 192px;
+          height: 39px;
+          padding-top: 9px;
+          margin: 12px auto 0;
+     }
+
+     .accordion-sec {
+          margin-top: 30px;
+     }
+
+     .accordion-sec .text-box h2 {
+          font-size: 18px;
+          margin-top: 0px;
+          margin-bottom: 29px;
+     }
+
+     .accordion-btn .btn-more {
+          margin-left: 0;
+     }
+
+     .accordion-btn {
+          margin-left: 0;
+          justify-content: start;
+          margin-top: 5px;
+     }
+
+     .accordion-sec .accordion-button {
+          display: block;
+     }
+
+     .accordion-sec .accordion-button {
+          font-size: 16px;
+          padding: 16px 12px 16px 32px;
+     }
+
+     .accordion-sec .accordion-body {
+          padding: 0px 27px 101px;
+     }
+
+     .accordion-sec .accordion-button:not(.collapsed) .btn-more {
+          position: absolute;
+          bottom: 34px;
+     }
+
+     .accordion-item {
+          position: relative;
+     }
+
+     .accordion-sec .accordion-button {
+          position: inherit;
+     }
+
+     .accordion-sec .accordion-body p {
+          font-size: 16px;
+          line-height: 23px;
+     }
+
+     .choose-page .worth-card .btn-price span {
+          font-size: 10px;
+     }
+
+     .choose-page .about-sec .price-form .input-group {
+          display: none;
+     }
+
+     .fees-sec .btn-price span {
+          font-size: 10px;
+     }
+
+     .fees-sec .image-holder {
+          margin: -151px 13px 0 -2px;
+     }
+
+     .fees-sec .btn-price {
+          font-size: 20px;
+          width: 192px;
+          height: 39px;
+          padding: 6px;
+          margin: 9px auto 0;
+     }
+
+     .choose-page .star-list img {
+          margin: 0 auto;
+     }
+
+     .choose-page .worth-card .hero-card h2 {
+          font-size: 24px;
+     }
+
+     .choose-page .hero-bg {
+          padding: 129px 0px 15px;
+     }
+
+     .choose-page .hero-media h1 {
+          margin-bottom: 7px;
+     }
+
+     .choose-page .hero-media h1 {
+          font-size: 28px;
+     }
+
+     .price-form .reg-input {
+          max-width: 100%;
+     }
+
+     .hero-bg {
+          padding: 106px 0px 10px;
+     }
+
+     .text-box h2 {
+          font-size: 28px;
+          margin-top: 17px;
+          margin-bottom: 18px;
+     }
+
+     .bottom-heading .btn-price span {
+          font-size: 9px;
+          margin-top: -13px;
+     }
+
+     .review-sec {
+          margin: 26px 0px 52px;
+          padding: 26px 0px 135px;
+     }
+
+     .scrap-sec .text-box h2 {
+          font-size: 18px;
+          margin-bottom: 9px;
+     }
+
+     .slide-sec .text-box h3 {
+          text-align: center;
+          margin-bottom: 23px;
+     }
+
+     .slide-sec {
+          padding: 33px 0px 0px;
+          background-image: url(../images/slider-m-bg.png);
+          background-size: cover !important;
+     }
+
+     .offer-tag {
+          width: 106px;
+          height: 106px;
+          left: -23px;
+          top: -29px;
+     }
+
+     .customer-box .swiper-slide p {
+          margin-bottom: 12px;
+     }
+
+     .right-side {
+          padding: 20px 19px 20px;
+     }
+
+     .top-space {
+          margin-top: 6px;
+          width: 148px;
+     }
+
+     .customer-box {
+          padding-bottom: 23px;
+     }
+
+     .word-space {
+          margin-top: 38px;
+     }
+
+     .garige-img {
+          height: 100%;
+     }
+
+     .play-btn {
+          width: 94px;
+     }
+
+     .text-box h3 {
+          font-size: 27px;
+     }
+
+     .car-box img {
+          width: 129px;
+     }
+
+     .month-sec {
+          padding: 23px 23px 27px 15px;
+     }
+
+     .car-box {
+          margin-bottom: 10px;
+     }
+
+     .car-box p {
+          font-size: 16px;
+          line-height: 16px;
+     }
+
+     .slide-sec .word-space .text-box h3 {
+          text-align: center;
+          margin-bottom: 16px;
+     }
+
+     .swiper-pagination {
+          position: static;
+          margin: 1px 17px;
+          justify-content: start;
+     }
+
+     .customer-box .swiper-slide h4 {
+          font-size: 28px;
+          margin-bottom: 10px;
+          line-height: 29px;
+     }
+
+     .offer-tag h2 {
+          font-size: 36px;
+          margin: 0px;
+     }
+
+     .offer-tag h2 span {
+          font-size: 17px;
+          color: #fff !important;
+     }
+
+     .bottom-heading .btn-price {
+          font-size: 20px;
+          height: 39px;
+          max-width: 192p;
+          margin: 20px auto 0px;
+          padding: 0px;
+     }
+
+     .step h4 {
+          text-align: start;
+          font-size: 16px;
+          margin-bottom: 0px;
+     }
+
+     .step .img-holder img {
+          width: 43px;
+     }
+
+     .step p {
+          font-size: 16px;
+          text-align: start;
+     }
+
+     .step-body {
+          margin-left: 15px;
+     }
+
+     .step {
+          display: flex;
+          align-items: center;
+          border: 5px solid #F6F6F6;
+          padding: 23px 14px 26px;
+          min-height: auto;
+          margin-bottom: 12px;
+     }
+
+     .step .img-holder {
+          margin-bottom: 0px;
+     }
+
+     .container {
+          padding: 0px 20px;
+     }
+
+     .text-box h2 span {
+          color: #2BB673;
+     }
+
+     .hero-media h1 {
+          font-size: 32px;
+     }
+
+     .hero-media p {
+          font-size: 16px;
+          line-height: 21px;
+          max-width: 320px;
+          margin: 0 auto;
+     }
+
+     .price-form .form {
+          display: block;
+     }
+
+     .hero-card h2 {
+          color: #000;
+          font-size: 17px;
+          text-align: center;
+     }
+
+     .price-form .reg-input .group-text {
+          font-size: 8px;
+     }
+
+     .price-form .reg-input .group-text {
+          text-align: center;
+     }
+
+     .price-form .loaction-input {
+          border-radius: 7px;
+          border: 2px solid #D4D4D4;
+          margin-right: 0;
+          max-width: 100%;
+          background: #FFF;
+          margin: 6px 0 10px;
+     }
+
+     .hero-media .vehicle-text {
+          font-size: 12px;
+          color: #000;
+          text-align: center;
+          line-height: 14px;
+     }
+
+     .hero-bg .btn-price span {
+          font-size: 9px;
+          margin-top: -12px;
+     }
+
+     .hero-bg .btn-price {
+          font-size: 20px;
+          margin: 6px auto 19px;
+          height: 39px;
+          padding: 0px;
+     }
+
+     .star-list h6 {
+          font-size: 12px;
+          text-align: center;
+          margin-bottom: 10px;
+     }
+
+     .star-list {
+          display: block;
+     }
+
+     .hero-bg {
+          background-image: url(../images/mobile-hero.png);
+          background-size: 100% 100%;
+     }
+
+
+     .hero-card {
+          max-width: 100%;
+          margin: 13px auto 0;
+          background-color: #fff;
+          padding: 24px 30px 7px;
+     }
+
+     .hero-bg .img-holder {
+          margin: -30px 30px 0;
+     }
+
+     .hero-media .form p {
+          font-size: 13px;
+          line-height: 20px;
+          max-width: 320px;
+          margin: 0 auto;
+          color: #000;
+     }
+
+     .price-box {
+          margin-right: 0px;
+     }
+
+     .hero-media .form .price-boxes p {
+          margin-left: 12px;
+     }
+
+     .button-list .btn {
+          font-size: 13px;
+     }
+
+     .button-list .btn {
+          font-size: 13px;
+          width: 154px;
+          height: 34px;
+          padding: 11px 0px 7px !important;
+     }
+
+
+     .btn-sell {
+          width: 160px !important;
+          margin-left: 7px;
+     }
+
+     .faq-sec {
+          margin-top: 31px;
+     }
+
+     .opacity-0 {
+          display: none;
+     }
+
+     .faq-sec .faq-box {
+          padding: 46px 16px 55px 28px;
+     }
+
+     .faq-sec .faq-box h2 {
+          font-size: 30px;
+     }
+
+     .faq-sec .faq-box .btn-call {
+          font-size: 16px;
+          width: 229px;
+          height: 39px;
+     }
+
+     .faq-sec .faq-box .btn-call img {
+          width: 20px;
+     }
+
+     .accordion-button {
+          font-size: 16px;
+          padding: 11px 15px;
+          line-height: 26px;
+          border-radius: 9px;
+          font-weight: 500;
+     }
+
+     .accordion-button::after {
+          background-size: 28px;
+          width: 28px;
+          height: 28px;
+     }
+
+     footer {
+          margin-top: 53px;
+     }
+
+     .bottom-footer p {
+          font-size: 13px;
+          text-align: center;
+     }
+
+     .bottom-footer {
+          padding: 11px 0px 14px;
+          margin-top: 30px;
+     }
+
+
+
+     .call-link {
+          text-align: center;
+     }
+
+     .back-button {
+          display: flex;
+          bottom: 36px;
+          right: 24px;
+          top: auto;
+     }
+
+     .fotter-logo img {
+          width: 183px;
+          height: 40.1px;
+          object-fit: cover;
+     }
+
+     .social-box {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+     }
+
+     .footer-links {
+          display: none;
+     }
+
+     .accordion-header {
+          margin-top: 0px !important;
+          margin-bottom: 7px !important;
+     }
+
+     .hero-bg .btn-price:hover {
+          border: 1px solid #2BB673;
+          color: #2BB673;
+     }
+
+     .hide-content {
+          opacity: 1;
+          text-align: center !important;
+          margin: 30px 0px 15px !important;
+     }
+}
+
+@media (max-width:575px) {
+     .hero-bg {
+          background-image: url(../images/mobile-hero.png);
+          background-size: 100% 100%;
+     }
+
+
+
+     .btn-call {
+          margin: 0px 0px;
+          width: 52px;
+          height: 54px;
+     }
+
+     .slide-sec {
+          background-size: contain;
+     }
+
+     .hero-card {
+          max-width: 311px;
+     }
+}
+
+@media (max-width:390px) {
+     .navbar-brand img {
+          width: 160px;
+     }
+
+     .fees-sec .hero-card h2 {
+          font-size: 18px;
+     }
+}
